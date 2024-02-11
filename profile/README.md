@@ -1,39 +1,9 @@
-Welcome to Bloodmage Software
+Welcome to Bloodmage Software, where we breathe new life into retro-style gaming experiences! Our studio is dedicated to crafting captivating story adventure games that harken back to the golden era of gaming while infusing them with fresh narratives and innovative gameplay mechanics.
 
-🧙 Unleashing the Power of the Past, Present, and Future 🚀
+At Bloodmage Software, we take pride in our unique approach to game development. Unlike traditional game studios, we eschew popular game engines like Unreal or Unity in favor of our own proprietary technology built on Raylib. Raylib is a simple and easy-to-use library for creating games and multimedia applications, providing us with the flexibility and control needed to bring our creative visions to life.
 
-Are you passionate about old-school software and immersive role-playing games?
-Do you believe that code should be a form of art, meticulously crafted to achieve excellence?
-If so, you've come to the right place.
-Welcome to Bloodmage Software, where we blend the magic of classic gaming with cutting-edge software development.
+But that's not all—our games are not only crafted with passion but also with a commitment to open source principles. Every line of code behind our games is freely available for exploration and modification by the community, fostering collaboration and creativity among developers and gamers alike.
 
-## Who Are We?
+Behind the scenes, our games are powered by Golang, a powerful and efficient programming language known for its simplicity, concurrency support, and robust standard library. With Golang at our disposal, we're able to write clean, concise, and performant code that forms the backbone of our immersive gaming experiences.
 
-Bloodmage Software is an open source organization on GitHub dedicated to building software that takes you into immersive worlds.
-
-## Our Mission
-
-Our mission is simple: to bridge the gap between the nostalgia of old-school RPGs and the innovation of modern software development.
-We believe in crafting tools and games that empower creators and transport players to imaginative worlds.
-With a strong emphasis on performance and usability, we're determined to provide the best experiences to both developers and gamers alike.
-
-## What Sets Us Apart
-
-1. **Go-Powered Game Engine:** We're breaking the mold by developing game engines in Go, offering a unique, high-performance alternative to traditional C++ and C# engines.
-2. **Old Meets New:** Our projects draw inspiration from classic RPGs, infusing them with modern game design and technology.
-3. **Open Source:** We're firm believers in the open-source ethos, encouraging collaboration and knowledge sharing among developers.
-
-## Our Current Project
-
-We're excited to announce that our current focus is on building a game engine that not only meets the demands of modern game development but does so with the power of Go. This game engine aims to be the ultimate tool for indie developers and hobbyists who want to create immersive role-playing experiences.
-
-Join us on our journey and contribute your ideas, code, and expertise to help us shape the future of game development. Whether you're an experienced developer or just getting started, there's a place for you here at Bloodmage Software.
-
-## Get Involved
-
-- [Explore our repositories](https://github.com/orgs/bloodmagesoftware/repositories)
-- [Join our discussions](https://github.com/orgs/bloodmagesoftware/discussions)
-- [Become a member](https://github.com/bloodmagesoftware/discussions/issues/new?assignees=Frank-Mayer&labels=Application&projects=&template=application-for-membership.md&title=)
-
-Let's craft epic adventures, together.
-Welcome to Bloodmage Software! ⚔️🎮
+Join us on our journey as we continue to push the boundaries of retro-style gaming, blending nostalgia with innovation to create unforgettable adventures for players old and new. Welcome to Bloodmage Software — where the magic of gaming lives on!
